@@ -122,3 +122,16 @@ intelligence-entropy/
 
 © 2026 Dexing Liu, Shanghai Qijing Digital Technology Co., Ltd.  
 All rights reserved. Academic research and educational use permitted. Commercial use requires explicit written authorization.
+
+
+---
+
+## 📋 ADE Failure Registry
+
+This paper is supported by the [ADE Failure Registry](https://github.com/ADE-standard/ade-failure-registry) — a cross-architecture knowledge base of AI agent failure cases.
+
+The registry continuously collects and classifies real-world failure cases using the taxonomy defined in this paper. Each case study demonstrates how the failure patterns described here manifest in production systems.
+
+**Browse cases**: [github.com/ADE-standard/ade-failure-registry](https://github.com/ADE-standard/ade-failure-registry)
+
+**Contribute**: Found a failure case that matches this paper's taxonomy? [Submit a case study](https://github.com/ADE-standard/ade-failure-registry/blob/main/CONTRIBUTING.md).
